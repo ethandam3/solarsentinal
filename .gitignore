@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# AWS / CDK
+infra/cdk.out/
+infra/.cdk.staging/
+*.tfstate
+.aws/
+
+# Model artifacts (large files)
+data/model_artifact/
+data/model.tar.gz
+data/training.csv
+data/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.claude/

@@ -1,0 +1,51 @@
+permit_id,address,city,zip_code,install_date,system_size_dc_kw,system_size_ac_kw,panel_model,panel_count,inverter_model,tilt_deg,azimuth_deg,annual_kwh_est,status
+ZP-0001,2679 Sorrento Valley Blvd,San Diego,92108,2018-12-23,10.3,9.69,Hanwha Q.PEAK DUO 395W,26,Fronius Symo 10.0-3-208,22,170,16025,Approved & Installed
+ZP-0002,4257 Sorrento Valley Blvd,San Diego,92108,2022-09-15,5.74,5.42,LG NeON R 380W,15,Fronius Symo 10.0-3-208,21,187,9474,Approved & Installed
+ZP-0003,7924 Genesee Ave,San Diego,92130,2019-09-29,9.92,9.65,LG NeON R 380W,25,SMA Sunny Boy 7.7-US,18,203,16878,Approved & Installed
+ZP-0004,1711 Sorrento Valley Blvd,San Diego,92103,2024-01-06,6.27,5.99,SunPower SPR-MAX3-400,16,Fronius Symo 10.0-3-208,23,177,10351,Approved & Installed
+ZP-0005,6925 Carmel Valley Rd,San Diego,92121,2018-10-12,6.09,5.8,SunPower SPR-MAX3-400,16,SolarEdge SE7600H-US,28,194,10483,Approved & Installed
+ZP-0006,8428 Sorrento Valley Blvd,San Diego,92131,2019-10-29,11.3,11.07,REC Alpha 405W,29,SMA Sunny Boy 7.7-US,21,161,18024,Approved & Installed
+ZP-0007,3803 Carmel Valley Rd,San Diego,92121,2019-11-01,7.07,6.72,Canadian Solar CS6R-390,18,Fronius Symo 10.0-3-208,28,196,10731,Approved & Installed
+ZP-0008,6313 Torrey Pines Rd,San Diego,92121,2018-05-12,7.52,7.35,REC Alpha 405W,19,Fronius Symo 10.0-3-208,29,190,11693,Approved & Installed
+ZP-0009,9179 Miramar Rd,San Diego,92103,2019-08-09,7.51,7.12,REC Alpha 405W,19,SolarEdge SE7600H-US,27,200,11856,Approved & Installed
+ZP-0010,7543 Genesee Ave,San Diego,92121,2019-07-21,7.35,7.07,Hanwha Q.PEAK DUO 395W,19,Fronius Symo 10.0-3-208,22,202,12099,Approved & Installed
+ZP-0011,7916 Carmel Valley Rd,San Diego,92093,2022-04-26,6.18,5.82,Canadian Solar CS6R-390,16,Fronius Symo 10.0-3-208,19,164,10239,Approved & Installed
+ZP-0012,9797 Genesee Ave,San Diego,92131,2019-04-02,9.47,9.27,REC Alpha 405W,24,Fronius Symo 10.0-3-208,18,198,15911,Approved & Installed
+ZP-0013,9201 La Jolla Shores Dr,San Diego,92108,2019-03-12,6.69,6.29,REC Alpha 405W,17,SolarEdge SE7600H-US,29,201,10476,Approved & Installed
+ZP-0014,1009 Carmel Valley Rd,San Diego,92131,2023-06-25,6.65,6.45,SunPower SPR-MAX3-400,17,Enphase IQ8A Microinverter,26,204,11509,Approved & Installed
+ZP-0015,4946 Carmel Valley Rd,San Diego,92093,2018-12-17,12.47,12.16,Canadian Solar CS6R-390,32,Enphase IQ8A Microinverter,30,174,19451,Approved & Installed
+ZP-0016,3705 Genesee Ave,San Diego,92108,2024-10-20,12.83,12.33,Canadian Solar CS6R-390,33,SolarEdge SE7600H-US,20,163,21361,Approved & Installed
+ZP-0017,7537 Sorrento Valley Blvd,San Diego,92131,2022-11-30,12.47,12.1,Hanwha Q.PEAK DUO 395W,32,Fronius Symo 10.0-3-208,29,167,20928,Approved & Installed
+ZP-0018,4770 Carmel Valley Rd,San Diego,92121,2018-01-30,6.41,6.08,SunPower SPR-MAX3-400,16,Enphase IQ8A Microinverter,23,156,10558,Approved & Installed
+ZP-0019,5562 Sorrento Valley Blvd,San Diego,92103,2020-05-27,7.22,7.05,Hanwha Q.PEAK DUO 395W,19,SolarEdge SE7600H-US,23,159,11758,Approved & Installed
+ZP-0020,8749 Miramar Rd,San Diego,92121,2019-01-22,10.93,10.66,SunPower SPR-MAX3-400,28,Fronius Symo 10.0-3-208,27,185,17059,Approved & Installed
+ZP-0021,2612 Torrey Pines Rd,San Diego,92123,2021-10-21,8.16,7.8,SunPower SPR-MAX3-400,21,SolarEdge SE7600H-US,29,158,13614,Approved & Installed
+ZP-0022,8579 La Jolla Shores Dr,San Diego,92093,2022-12-21,6.94,6.67,Hanwha Q.PEAK DUO 395W,18,Enphase IQ8A Microinverter,20,182,10728,Approved & Installed
+ZP-0023,4872 La Jolla Shores Dr,San Diego,92123,2023-06-13,5.88,5.76,Canadian Solar CS6R-390,15,SolarEdge SE7600H-US,18,160,10182,Approved & Installed
+ZP-0024,7396 Genesee Ave,San Diego,92103,2021-03-14,11.98,11.69,Canadian Solar CS6R-390,31,Fronius Symo 10.0-3-208,20,179,17976,Approved & Installed
+ZP-0025,1998 Sorrento Valley Blvd,San Diego,92131,2018-08-23,6.66,6.34,SunPower SPR-MAX3-400,17,Fronius Symo 10.0-3-208,18,192,11215,Approved & Installed
+ZP-0026,2312 La Jolla Shores Dr,San Diego,92093,2024-09-03,9.27,9.03,SunPower SPR-MAX3-400,24,SolarEdge SE7600H-US,20,158,16132,Approved & Installed
+ZP-0027,1651 Carmel Valley Rd,San Diego,92093,2022-09-14,8.53,8.34,Hanwha Q.PEAK DUO 395W,22,SMA Sunny Boy 7.7-US,27,170,14030,Approved & Installed
+ZP-0028,7484 La Jolla Shores Dr,San Diego,92130,2023-02-16,12.51,11.86,REC Alpha 405W,32,Enphase IQ8A Microinverter,29,175,19511,Approved & Installed
+ZP-0029,4492 Carmel Valley Rd,San Diego,92130,2019-06-27,5.57,5.37,REC Alpha 405W,14,Enphase IQ8A Microinverter,27,161,8457,Approved & Installed
+ZP-0030,5956 Carmel Valley Rd,San Diego,92108,2018-02-02,12.09,11.54,Hanwha Q.PEAK DUO 395W,31,SMA Sunny Boy 7.7-US,20,183,20655,Approved & Installed
+ZP-0031,2753 Sorrento Valley Blvd,San Diego,92108,2019-09-29,12.49,11.79,REC Alpha 405W,32,SMA Sunny Boy 7.7-US,20,171,19095,Approved & Installed
+ZP-0032,5325 Carmel Valley Rd,San Diego,92103,2020-10-25,10.04,9.73,SunPower SPR-MAX3-400,26,Enphase IQ8A Microinverter,21,198,16652,Approved & Installed
+ZP-0033,3143 Sorrento Valley Blvd,San Diego,92130,2019-10-24,10.26,9.98,Canadian Solar CS6R-390,26,Fronius Symo 10.0-3-208,18,155,16246,Approved & Installed
+ZP-0034,7049 Carmel Valley Rd,San Diego,92108,2019-08-30,9.71,9.17,Canadian Solar CS6R-390,25,SolarEdge SE7600H-US,29,164,15889,Approved & Installed
+ZP-0035,4441 Sorrento Valley Blvd,San Diego,92121,2019-02-26,5.81,5.55,REC Alpha 405W,15,Fronius Symo 10.0-3-208,30,157,10021,Approved & Installed
+ZP-0036,3900 Miramar Rd,San Diego,92037,2020-01-05,12.8,12.42,REC Alpha 405W,33,Fronius Symo 10.0-3-208,21,165,22324,Approved & Installed
+ZP-0037,2771 Miramar Rd,San Diego,92037,2023-04-12,11.52,11.23,LG NeON R 380W,30,SolarEdge SE7600H-US,30,170,18048,Approved & Installed
+ZP-0038,4652 Torrey Pines Rd,San Diego,92121,2022-06-21,11.62,11.14,REC Alpha 405W,30,SMA Sunny Boy 7.7-US,22,205,19961,Approved & Installed
+ZP-0039,7548 Sorrento Valley Blvd,San Diego,92108,2021-09-18,11.98,11.72,SunPower SPR-MAX3-400,31,Enphase IQ8A Microinverter,22,177,19891,Approved & Installed
+ZP-0040,8119 Genesee Ave,San Diego,92131,2022-11-23,12.08,11.48,Hanwha Q.PEAK DUO 395W,31,Enphase IQ8A Microinverter,27,171,18236,Approved & Installed
+ZP-0041,1027 Carmel Valley Rd,San Diego,92108,2020-03-18,8.39,8.08,REC Alpha 405W,22,Fronius Symo 10.0-3-208,22,157,14072,Approved & Installed
+ZP-0042,3041 Sorrento Valley Blvd,San Diego,92130,2023-09-09,6.02,5.82,REC Alpha 405W,15,Fronius Symo 10.0-3-208,23,194,9502,Approved & Installed
+ZP-0043,7211 Sorrento Valley Blvd,San Diego,92122,2024-11-26,7.95,7.69,Hanwha Q.PEAK DUO 395W,20,SMA Sunny Boy 7.7-US,26,163,12306,Approved & Installed
+ZP-0044,6279 Miramar Rd,San Diego,92103,2022-12-17,8.55,8.32,LG NeON R 380W,22,Fronius Symo 10.0-3-208,22,173,13274,Approved & Installed
+ZP-0045,5649 Carmel Valley Rd,San Diego,92115,2021-10-04,11.45,11.2,SunPower SPR-MAX3-400,29,SolarEdge SE7600H-US,29,165,19061,Approved & Installed
+ZP-0046,5011 Miramar Rd,San Diego,92115,2018-10-26,10.55,10.01,Canadian Solar CS6R-390,27,Fronius Symo 10.0-3-208,21,164,15889,Approved & Installed
+ZP-0047,7547 La Jolla Shores Dr,San Diego,92122,2018-01-23,12.15,11.7,SunPower SPR-MAX3-400,31,Fronius Symo 10.0-3-208,29,199,19391,Approved & Installed
+ZP-0048,5082 Torrey Pines Rd,San Diego,92103,2019-07-01,7.14,6.94,Canadian Solar CS6R-390,18,SMA Sunny Boy 7.7-US,29,188,11539,Approved & Installed
+ZP-0049,7991 Carmel Valley Rd,San Diego,92103,2019-10-14,12.63,12.32,Canadian Solar CS6R-390,32,Fronius Symo 10.0-3-208,27,201,21762,Approved & Installed
+ZP-0050,9540 Miramar Rd,San Diego,92121,2021-01-29,7.44,7.07,Canadian Solar CS6R-390,19,Enphase IQ8A Microinverter,28,172,12584,Approved & Installed

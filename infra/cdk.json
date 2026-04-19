@@ -1,0 +1,23 @@
+{
+  "app": "python app.py",
+  "watch": {
+    "include": ["**"],
+    "exclude": [
+      "README.md",
+      "cdk*.json",
+      "requirements*.txt",
+      ".venv",
+      ".cdk.staging",
+      "dist"
+    ]
+  },
+  "context": {
+    "region": "us-east-1",
+    "ops_email": "ops@zenpower.example.com",
+    "@aws-cdk/aws-lambda:recognizeLayerVersion": true,
+    "@aws-cdk/core:checkSecretUsage": true,
+    "@aws-cdk/aws-codepipeline-actions:useNewDefaultBranchForCodeCommitSource": false,
+    "@aws-cdk/aws-cloudwatch-actions:changeLambdaPermissionLogicalIdForLambdaAction": true,
+    "@aws-cdk/aws-events-targets:logGroupResourcePolicyCreatedWithLogGroupPrefix": true
+  }
+}
